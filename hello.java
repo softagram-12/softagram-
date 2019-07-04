@@ -4,7 +4,7 @@ class Arguments
   {
     for (String t: args) 
     {
-      System.out.println(t);
+      System.out.println(t);//adding some other files
     }
   }
 }
